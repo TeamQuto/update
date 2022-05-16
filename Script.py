@@ -90,5 +90,5 @@ Added By - {}
 """
     LOG_TEXT_P = """🚩 #NewUser
 🆔 ID - <code>{}</code>
-🤹🏻Name - {}
+🤹🏻 Name - {}
 """
